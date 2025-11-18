@@ -1,0 +1,7 @@
+site_name: Documentación de Ejemplo
+nav:
+  - Inicio: index.md
+  - Guía: guia.md
+
+theme:
+  name: mkdocs
